@@ -18,6 +18,7 @@ exports.tree = require('./lib/widget/tree.js')
 exports.markdown = require('./lib/widget/markdown.js')
 
 exports.bar = require('./lib/widget/charts/bar')
+exports.netloadBar = require('./lib/widget/charts/netload-bar')
 exports.stackedBar = require('./lib/widget/charts/stacked-bar')
 exports.line = require('./lib/widget/charts/line')
 
